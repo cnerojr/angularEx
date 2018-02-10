@@ -7,7 +7,7 @@ myApp.config(function ($stateProvider,$urlRouterProvider,$locationProvider){
             url:'/',
             templateUrl:'/ngapp/views/main.html',
             controller:MainController,
-            controllerAS: "con"
+            controllerAS: "con" 
         });
     //handle request for non-existent router
     $urlRouterProvider.otherwise('/notFound');
