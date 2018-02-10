@@ -1,0 +1,10 @@
+C:\Users\theLight\Desktop\sect8\obj\Debug\netcoreapp2.0\sect8.csproj.CoreCompileInputs.cache
+C:\Users\theLight\Desktop\sect8\obj\Debug\netcoreapp2.0\sect8.AssemblyInfoInputs.cache
+C:\Users\theLight\Desktop\sect8\obj\Debug\netcoreapp2.0\sect8.AssemblyInfo.cs
+C:\Users\theLight\Desktop\sect8\bin\Debug\netcoreapp2.0\sect8.deps.json
+C:\Users\theLight\Desktop\sect8\bin\Debug\netcoreapp2.0\sect8.runtimeconfig.json
+C:\Users\theLight\Desktop\sect8\bin\Debug\netcoreapp2.0\sect8.runtimeconfig.dev.json
+C:\Users\theLight\Desktop\sect8\bin\Debug\netcoreapp2.0\sect8.dll
+C:\Users\theLight\Desktop\sect8\bin\Debug\netcoreapp2.0\sect8.pdb
+C:\Users\theLight\Desktop\sect8\obj\Debug\netcoreapp2.0\sect8.dll
+C:\Users\theLight\Desktop\sect8\obj\Debug\netcoreapp2.0\sect8.pdb
